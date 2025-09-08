@@ -1,0 +1,36 @@
+# Configuración del sitio BMW con Jekyll
+
+title: BMW Autos
+email: contacto@bmw.com
+description: >-
+  Sitio web ficticio de BMW dedicado a la innovación, el diseño y la movilidad sostenible.
+baseurl: "" # dejar vacío si el sitio va en la raíz
+url: "http://localhost:4000" # cámbialo por tu dominio real cuando lo publiques
+
+# Redes sociales
+twitter_username: BMW
+github_username: BMW
+
+# Ajustes de construcción
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Variables personalizadas para usar en layouts y páginas
+brand: BMW
+slogan: "El placer de conducir"
+location: "México"
+phone: "+52 55 1234 5678"
+
+# Archivos y carpetas a excluir de la compilación
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
