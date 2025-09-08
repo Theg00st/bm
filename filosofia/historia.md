@@ -3,7 +3,7 @@ layout: default
 title: "Nuestra Historia"
 ---
 
-![Historia](/assets/img/historia.jpeg)
+![Historia]({{ site.baseurl }}/assets/img/historia.jpeg)
 
 ## Historia de BMW
 
