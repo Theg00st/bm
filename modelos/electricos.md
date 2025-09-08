@@ -10,9 +10,9 @@ title: "Modelos Eléctricos"
 **Eléctrico premium**, 0 emisiones y hasta 600 km de autonomía.
 
 ### VoltX
-![VoltX](/assets/img/elec2.jpeg)
+![VoltX]({{ site.baseurl }}/assets/img/elec2.jpeg)
 **Eléctrico deportivo**, potencia y diseño futurista.
 
 ### UrbanEV
-![UrbanEV](/assets/img/elec3.jpeg)
+![UrbanEV]({{ site.baseurl }}/assets/img/elec3.jpeg)
 **Eléctrico urbano**, compacto, eficiente y sostenible.
