@@ -6,7 +6,7 @@ title: "Modelos Eléctricos"
 ## Nuestra línea de vehículos eléctricos
 
 ### EcoDrive
-![EcoDrive](/assets/img/elec1.jpg)
+![EcoDrive]({{ site.baseurl }}/assets/img/elec1.jpg)
 **Eléctrico premium**, 0 emisiones y hasta 600 km de autonomía.
 
 ### VoltX
